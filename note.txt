@@ -1,0 +1,17 @@
+Flow code reactjs: index.html => index.js => App.js
+ReactJS sẽ không hiểu html, mà nó chỉ hiểu jsx ( class => className)
+
+
+npm i bootstrap jquery popper.js
+
+Lý do dùng component là
+ - dễ quản lý (chia để trị)
+ - tái sử dụng (ưu tiên hàng đầu)
+
+ Điều kiện để tạo ra 1 component:
+ - tái sử dụng (ưu tiên hàng đầu)
+ - dễ quản lý (chia để trị)
+
+tạo class component : Gõ tắt rcc
+
+tạo function component : Gõ tắt rfce
